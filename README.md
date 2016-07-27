@@ -7,7 +7,7 @@
     │ │\ \  │ ╭──╯ ╰───╮ │                │   │              │   ┤
 ╭───┘ └─┘ └─┘ └──┬─────┘ └────────────────┘   │              │   │
 ╰─────────┴────────┴──────────────────────┐   ╰───┬──────────╯   │
-      Unshackle your user experience      │                      │
+      Unshackles user experience          │                      │
                                           ╰────┴───────┴─────────╯
 ```
 > Semantic-ui components built with pure Vue.js
