@@ -10,4 +10,4 @@
         Unshackles the beast within           │                      │
                                               ╰────┴───────┴─────────╯
 ```
-> Kuhfskee is a pure Vue.js implementation for Semantic-ui elements
+> Kuhfskee is a pure Vue.js implementation for Semantic-ui elements.
