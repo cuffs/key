@@ -10,4 +10,4 @@ CUFFS │ │\ \  │ ╭──╯ ╰───╮ │                │   │ 
       Unshackles user experience            │                      │
                                             ╰────┴───────┴─────────╯
 ```
-> Cuffskey is a pure Vue.js implementation for Semantic-ui components
+> Cuffskey (or Kuhfskee) is a pure Vue.js implementation for Semantic-ui components
